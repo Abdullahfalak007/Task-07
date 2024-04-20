@@ -1,0 +1,82 @@
+.navb {
+  height: 13.4vh;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1000;
+}
+
+.notiontxt {
+  margin-left: 0.5625vw;
+}
+
+.rowImage {
+  width: 700px;
+  height: 600px;
+}
+
+.rightSideRow {
+  height: 600px;
+}
+
+.rightSideRowImage {
+  padding-top: 100px;
+}
+
+.leftSideRowImage {
+  margin-left: 300px;
+}
+
+.links {
+  text-decoration: none;
+}
+
+.rightSideContainer {
+  height: 500px;
+}
+
+.leftSideRowImageContainer {
+  margin-top: 300px;
+}
+
+.rightSideImage {
+  width: 900px;
+  height: 600px;
+}
+
+.nextDiv {
+  margin-top: 40px;
+}
+
+.topConainer {
+  margin-top: 20%;
+}
+
+.rightButton {
+  margin-left: -35px;
+}
+
+.lowerPara {
+  margin-top: -20px;
+  font-size: 10px;
+}
+.upperPara {
+  font-size: 10px;
+}
+.sittingCharacter {
+  margin-top: -150px;
+}
+.paragraphEntries {
+  font-size: 10px;
+  margin-top: -15px;
+}
+.firstEntry {
+  margin-top: 10px;
+}
+.footerItems {
+  font-size: 12px;
+  font-weight: bold;
+}
+.footerItem {
+  font-size: 12px;
+}
